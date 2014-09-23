@@ -1,0 +1,5773 @@
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 3 + 5 = 8
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 1 = 4
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 4 + 4 = 8
+Jogador obteve 4 + 2 = 6
+Jogador obteve 4 + 6 = 10
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 3 = 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 2 + 1 = 3
+Jogador obteve 2 + 1 = 3
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 4 + 2 = 6
+Jogador obteve 2 + 6 = 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 3 = 6
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 11
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 4 + 1 = 5
+Jogador obteve 4 + 2 = 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 4 + 2 = 6
+Jogador obteve 5 + 6 = 11
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 4 + 2 = 6
+Jogador obteve 2 + 4 = 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 3 + 3 = 6
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 3 + 2 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 2 + 3 = 5
+Jogador obteve 4 + 5 = 9
+Jogador obteve 3 + 2 = 5
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 1 = 2
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 3 + 5 = 8
+Jogador obteve 1 + 5 = 6
+Jogador obteve 4 + 5 = 9
+Jogador obteve 5 + 5 = 10
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 3 + 6 = 9
+Jogador obteve 6 + 2 = 8
+Jogador obteve 3 + 6 = 9
+Jogador obteve 3 + 2 = 5
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 3 = 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 10
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 4 + 4 = 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 2 + 3 = 5
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 3 = 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 5 + 6 = 11
+Jogador obteve 3 + 2 = 5
+Jogador obteve 3 + 3 = 6
+Jogador obteve 5 + 4 = 9
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 1 + 1 = 2
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 1 = 6
+Jogador obteve 2 + 6 = 8
+Jogador obteve 1 + 4 = 5
+Jogador obteve 4 + 5 = 9
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 3 + 1 = 4
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 3 + 1 = 4
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 5 = 11
+Jogador obteve 4 + 4 = 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 6 + 3 = 9
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 9
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 1 + 4 = 5
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 2 = 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 2 + 6 = 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 4 + 5 = 9
+Jogador obteve 3 + 6 = 9
+Jogador obteve 5 + 4 = 9
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 1 + 1 = 2
+Jogador obteve 1 + 1 = 2
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 1 + 1 = 2
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 6 + 3 = 9
+Jogador obteve 2 + 3 = 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 5 + 4 = 9
+Jogador obteve 3 + 2 = 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 5 = 9
+Jogador obteve 6 + 5 = 11
+Jogador obteve 1 + 3 = 4
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 6 + 2 = 8
+Jogador obteve 3 + 3 = 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 5 + 5 = 10
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 2 + 2 = 4
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 1 + 1 = 2
+Jogador obteve 3 + 3 = 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 5 + 6 = 11
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 1 + 3 = 4
+Jogador obteve 3 + 3 = 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 3 + 1 = 4
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 1 + 3 = 4
+Jogador obteve 4 + 6 = 10
+Jogador obteve 6 + 2 = 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 5 + 4 = 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 4 = 9
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 2 = 4
+Jogador obteve 6 + 4 = 10
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 5 = 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 6 = 9
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 2 + 4 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 4 + 4 = 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 2 = 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 6 + 6 = 12
+Jogador obteve 5 + 3 = 8
+Jogador obteve 4 + 5 = 9
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 9
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 2 + 3 = 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 4 + 5 = 9
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 1 = 6
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 2 + 2 = 4
+Jogador obteve 2 + 2 = 4
+Jogador obteve 4 + 6 = 10
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 4 + 5 = 9
+Jogador obteve 2 + 6 = 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 1 + 5 = 6
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 6 + 4 = 10
+Jogador obteve 2 + 6 = 8
+Jogador obteve 4 + 2 = 6
+Jogador obteve 4 + 4 = 8
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 3 + 1 = 4
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 2 = 5
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 3 + 3 = 6
+Jogador obteve 3 + 3 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 1 = 4
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 10
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 3 + 6 = 9
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 6 = 10
+Jogador obteve 2 + 6 = 8
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 1 + 2 = 3
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 2 = 4
+Jogador obteve 4 + 4 = 8
+Jogador obteve 3 + 3 = 6
+Jogador obteve 2 + 6 = 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 1 = 2
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 18
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 4 + 2 = 6
+Jogador obteve 1 + 2 = 3
+Jogador obteve 6 + 3 = 9
+Jogador obteve 2 + 3 = 5
+Jogador obteve 3 + 3 = 6
+Jogador obteve 2 + 2 = 4
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 2 = 4
+Jogador obteve 4 + 6 = 10
+Jogador obteve 4 + 4 = 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 6 = 10
+Jogador obteve 5 + 6 = 11
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 4 + 2 = 6
+Jogador obteve 2 + 4 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 3 + 5 = 8
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 17
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 2 + 3 = 5
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 1 = 5
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 1 + 5 = 6
+Jogador obteve 4 + 4 = 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 1 + 4 = 5
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 6 = 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 3 + 3 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 3 + 2 = 5
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 1 + 4 = 5
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 2 = 5
+Jogador obteve 3 + 5 = 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 5 = 11
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 3 = 4
+Jogador obteve 3 + 5 = 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 1 + 3 = 4
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 4 + 5 = 9
+Jogador obteve 1 + 2 = 3
+Jogador obteve 4 + 1 = 5
+Jogador obteve 3 + 6 = 9
+Jogador obteve 2 + 6 = 8
+Jogador obteve 4 + 6 = 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 2 = 5
+Jogador obteve 3 + 5 = 8
+Jogador obteve 2 + 3 = 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 14
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 1 + 5 = 6
+Jogador obteve 6 + 3 = 9
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 5 + 1 = 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 2 + 3 = 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 6 = 8
+Jogador obteve 1 + 5 = 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 3 = 4
+Jogador obteve 4 + 5 = 9
+Jogador obteve 1 + 3 = 4
+Jogador obteve 3 + 6 = 9
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 14
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 2 + 4 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 3 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 2 + 3 = 5
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 1 = 4
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 3 + 3 = 6
+Jogador obteve 1 + 5 = 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 4 + 5 = 9
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 5 + 3 = 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 1 + 4 = 5
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 2 + 3 = 5
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 2 = 4
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 1 + 3 = 4
+Jogador obteve 3 + 6 = 9
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 4 = 8
+Jogador obteve 5 + 3 = 8
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 9
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 2 = 3
+Jogador obteve 4 + 6 = 10
+Jogador obteve 3 + 2 = 5
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 5 + 5 = 10
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 4 = 6
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 4 + 1 = 5
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 2 + 2 = 4
+Jogador obteve 5 + 3 = 8
+Jogador obteve 3 + 5 = 8
+Jogador obteve 5 + 4 = 9
+Jogador obteve 4 + 4 = 8
+Jogador obteve 2 + 1 = 3
+Jogador obteve 2 + 2 = 4
+Jogador obteve 4 + 1 = 5
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 10
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 1 = 4
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 3 + 6 = 9
+Jogador obteve 2 + 3 = 5
+Jogador obteve 6 + 6 = 12
+Jogador obteve 5 + 5 = 10
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 4 + 6 = 10
+Jogador obteve 1 + 1 = 2
+Jogador obteve 6 + 6 = 12
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 5 = 10
+Jogador obteve 3 + 6 = 9
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 10
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 5 + 4 = 9
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 4 + 2 = 6
+Jogador obteve 5 + 1 = 6
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 5 + 1 = 6
+Jogador obteve 5 + 4 = 9
+Jogador obteve 3 + 5 = 8
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 12
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 4 + 5 = 9
+Jogador obteve 4 + 5 = 9
+Jogador obteve 1 + 1 = 2
+Jogador obteve 6 + 4 = 10
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 4 + 6 = 10
+Jogador obteve 6 + 3 = 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 4 + 6 = 10
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 2 + 4 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 1 + 2 = 3
+Jogador obteve 2 + 3 = 5
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 4 + 4 = 8
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 2 = 3
+Jogador obteve 3 + 2 = 5
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 4 = 8
+Jogador obteve 5 + 3 = 8
+Jogador obteve 6 + 2 = 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 1 + 3 = 4
+Jogador obteve 4 + 5 = 9
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 11
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 3 + 5 = 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 1 + 3 = 4
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 1 + 5 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 1 + 4 = 5
+Jogador obteve 2 + 3 = 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 6 + 3 = 9
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 1 + 4 = 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 12
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 6 + 6 = 12
+Jogador obteve 5 + 5 = 10
+Jogador obteve 2 + 6 = 8
+Jogador obteve 1 + 5 = 6
+Jogador obteve 4 + 2 = 6
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 8
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 2 + 1 = 3
+Jogador obteve 5 + 5 = 10
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 3 + 3 = 6
+Jogador obteve 2 + 3 = 5
+Jogador obteve 1 + 1 = 2
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 3 + 2 = 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 2 = 4
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 4 = 10
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 3 + 6 = 9
+Jogador obteve 3 + 5 = 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 4 + 6 = 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 2 + 6 = 8
+Jogador obteve 5 + 6 = 11
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 6 = 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 2 + 2 = 4
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 6 + 3 = 9
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 5 + 3 = 8
+Jogador obteve 6 + 2 = 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 2 + 3 = 5
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 3 + 2 = 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 3 + 1 = 4
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 3 = 8
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 4 + 6 = 10
+Jogador obteve 6 + 3 = 9
+Jogador obteve 2 + 3 = 5
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 5 = 11
+Jogador obteve 4 + 6 = 10
+Jogador obteve 5 + 3 = 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 3 = 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 13
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 3 = 6
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 5 + 5 = 10
+Jogador obteve 1 + 1 = 2
+Jogador obteve 2 + 4 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 6 + 5 = 11
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 4 + 6 = 10
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 6 + 2 = 8
+Jogador obteve 3 + 2 = 5
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 3 = 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 9
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 1 + 2 = 3
+Jogador obteve 4 + 5 = 9
+Jogador obteve 3 + 2 = 5
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 4 + 6 = 10
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 2 + 6 = 8
+Jogador obteve 5 + 3 = 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 4 + 5 = 9
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 4 + 2 = 6
+Jogador obteve 5 + 1 = 6
+Jogador obteve 4 + 2 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 3 = 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 1 = 2
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 9
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 4 + 6 = 10
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 6 + 2 = 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 6 + 4 = 10
+Jogador obteve 2 + 1 = 3
+Jogador obteve 2 + 4 = 6
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 3 = 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 5 + 3 = 8
+Jogador obteve 1 + 2 = 3
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 6 + 2 = 8
+Jogador obteve 5 + 5 = 10
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 4 = 9
+Jogador obteve 4 + 2 = 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 4 + 4 = 8
+Jogador obteve 6 + 2 = 8
+Jogador obteve 2 + 6 = 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 1 + 1 = 2
+Jogador obteve 2 + 4 = 6
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 4 + 2 = 6
+Jogador obteve 6 + 5 = 11
+Jogador obteve 1 + 5 = 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 1 = 2
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 3 = 9
+Jogador obteve 4 + 2 = 6
+Jogador obteve 1 + 2 = 3
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 6 = 10
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 3 + 2 = 5
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 3 + 3 = 6
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 2 = 5
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 4 = 9
+Jogador obteve 3 + 5 = 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 8
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 1 + 3 = 4
+Jogador obteve 4 + 6 = 10
+Jogador obteve 5 + 3 = 8
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 3 + 6 = 9
+Jogador obteve 1 + 5 = 6
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 1 = 5
+Jogador obteve 4 + 2 = 6
+Jogador obteve 6 + 5 = 11
+Jogador obteve 4 + 5 = 9
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 4 + 5 = 9
+Jogador obteve 1 + 5 = 6
+Jogador obteve 4 + 2 = 6
+Jogador obteve 2 + 4 = 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 4 + 6 = 10
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 6 = 9
+Jogador obteve 4 + 4 = 8
+Jogador obteve 5 + 6 = 11
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 6 = 9
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 2 = 8
+Jogador obteve 4 + 2 = 6
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 19
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 4 + 6 = 10
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 3 = 6
+Jogador obteve 4 + 6 = 10
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 3 + 3 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 1 + 4 = 5
+Jogador obteve 2 + 2 = 4
+Jogador obteve 3 + 5 = 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 3 + 6 = 9
+Jogador obteve 5 + 6 = 11
+Jogador obteve 4 + 5 = 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 6 + 3 = 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 4 = 10
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 5 = 8
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 3 = 8
+Jogador obteve 6 + 2 = 8
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 14
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 3 + 6 = 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 1 + 5 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 2 + 3 = 5
+Jogador obteve 2 + 2 = 4
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 6 + 2 = 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 4 + 5 = 9
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 3 = 9
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 2 = 4
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 1 + 3 = 4
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 2 + 6 = 8
+Jogador obteve 5 + 4 = 9
+Jogador obteve 4 + 1 = 5
+Jogador obteve 4 + 5 = 9
+Jogador obteve 1 + 5 = 6
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 5 + 6 = 11
+Jogador obteve 1 + 3 = 4
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 6 + 5 = 11
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 6 + 4 = 10
+Jogador obteve 3 + 6 = 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 1 + 5 = 6
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 9
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 3 + 3 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 3 + 3 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 2 + 4 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 4 + 5 = 9
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 5 + 4 = 9
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 2 + 2 = 4
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 6 + 6 = 12
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 3 = 6
+Jogador obteve 6 + 3 = 9
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 3 = 5
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 2 + 3 = 5
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 5 + 4 = 9
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 3 + 2 = 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 1 + 1 = 2
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 6 + 4 = 10
+Jogador obteve 5 + 1 = 6
+Jogador obteve 5 + 4 = 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 3 = 9
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 4 = 6
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 4 + 6 = 10
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 3 = 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 5 + 5 = 10
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 2 + 6 = 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 5 + 6 = 11
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 2 = 4
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 1 = 3
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 2 + 6 = 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 4 + 2 = 6
+Jogador obteve 4 + 4 = 8
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 3 = 6
+Jogador obteve 4 + 2 = 6
+Jogador obteve 1 + 3 = 4
+Jogador venceu!
+Jogadas: 10
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 6 + 2 = 8
+Jogador obteve 1 + 2 = 3
+Jogador obteve 4 + 2 = 6
+Jogador obteve 4 + 1 = 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 6 + 4 = 10
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 5 + 4 = 9
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 6 = 12
+Jogador obteve 1 + 1 = 2
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 3 + 3 = 6
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 4 = 10
+Jogador obteve 1 + 5 = 6
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 4 = 10
+Jogador obteve 3 + 1 = 4
+Jogador venceu!
+Jogadas: 11
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 1 + 5 = 6
+Jogador obteve 2 + 3 = 5
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 5 = 6
+Jogador obteve 4 + 6 = 10
+Jogador obteve 4 + 6 = 10
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 8
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 1 + 4 = 5
+Jogador obteve 5 + 5 = 10
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 2 = 8
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 1 + 1 = 2
+Jogador obteve 4 + 6 = 10
+Jogador obteve 3 + 6 = 9
+Jogador obteve 5 + 4 = 9
+Jogador obteve 3 + 2 = 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 1 = 4
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 2 = 3
+Jogador obteve 4 + 2 = 6
+Jogador obteve 2 + 2 = 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 4 = 9
+Jogador obteve 4 + 5 = 9
+Jogador obteve 2 + 2 = 4
+Jogador obteve 2 + 2 = 4
+Jogador obteve 2 + 1 = 3
+Jogador obteve 1 + 4 = 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 2 = 3
+Jogador obteve 2 + 1 = 3
+Jogador obteve 1 + 5 = 6
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 21
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 6 + 3 = 9
+Jogador obteve 4 + 4 = 8
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 2 = 8
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 3 + 5 = 8
+Jogador obteve 1 + 5 = 6
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 4 + 4 = 8
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 2 + 2 = 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 2 + 3 = 5
+Jogador obteve 2 + 6 = 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 8
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 5 + 1 = 6
+Jogador obteve 3 + 1 = 4
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 5 + 1 = 6
+Jogador obteve 1 + 5 = 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 5 + 3 = 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 5 = 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 3 + 1 = 4
+Jogador obteve 2 + 3 = 5
+Jogador obteve 3 + 5 = 8
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 10
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 4 + 6 = 10
+Jogador obteve 1 + 4 = 5
+Jogador obteve 4 + 5 = 9
+Jogador obteve 4 + 5 = 9
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 1 + 4 = 5
+Jogador obteve 5 + 4 = 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 2 = 4
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 1 = 4
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 17
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 6 + 3 = 9
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 4 + 4 = 8
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 4 = 5
+Jogador obteve 3 + 2 = 5
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 1 = 5
+Jogador obteve 1 + 1 = 2
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 5 = 10
+Jogador obteve 3 + 5 = 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 3 + 3 = 6
+Jogador venceu!
+Jogadas: 9
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 6 + 2 = 8
+Jogador obteve 1 + 1 = 2
+Jogador obteve 2 + 1 = 3
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 6 = 9
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 6 + 3 = 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 3 + 1 = 4
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 2 + 3 = 5
+Jogador obteve 3 + 2 = 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 2 + 1 = 3
+Jogador obteve 1 + 4 = 5
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 2 + 6 = 8
+Jogador obteve 1 + 1 = 2
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 4 + 6 = 10
+Jogador obteve 3 + 3 = 6
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 6 + 2 = 8
+Jogador obteve 1 + 4 = 5
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 2 + 3 = 5
+Jogador obteve 2 + 3 = 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 5 + 5 = 10
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 5 + 5 = 10
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 2 + 2 = 4
+Jogador obteve 4 + 4 = 8
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 1 + 1 = 2
+Jogador obteve 4 + 2 = 6
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 1 + 5 = 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 3 + 5 = 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 2 + 6 = 8
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 2 + 6 = 8
+Jogador obteve 6 + 2 = 8
+Jogador obteve 3 + 5 = 8
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 3 + 3 = 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 4 + 4 = 8
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 4 + 5 = 9
+Jogador obteve 5 + 6 = 11
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 6 = 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 6 + 4 = 10
+Jogador obteve 2 + 2 = 4
+Jogador obteve 2 + 4 = 6
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 1 + 5 = 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 2 = 5
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 6 + 5 = 11
+Jogador obteve 1 + 1 = 2
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 2 + 3 = 5
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 3 + 5 = 8
+Jogador obteve 4 + 5 = 9
+Jogador obteve 5 + 4 = 9
+Jogador obteve 2 + 2 = 4
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 2 = 4
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 1 + 5 = 6
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 4 + 6 = 10
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 4 + 4 = 8
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 1 = 4
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 5 = 9
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 3 + 2 = 5
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 5 = 9
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 4 = 10
+Jogador obteve 2 + 4 = 6
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 1 + 5 = 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 1 = 6
+Jogador obteve 2 + 4 = 6
+Jogador obteve 1 + 5 = 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 6 = 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 11
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 3 + 2 = 5
+Jogador obteve 5 + 5 = 10
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 1 = 2
+Jogador obteve 5 + 6 = 11
+Jogador obteve 1 + 3 = 4
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 6 + 6 = 12
+Jogador obteve 1 + 5 = 6
+Jogador obteve 6 + 4 = 10
+Jogador obteve 5 + 6 = 11
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 5 = 6
+Jogador obteve 2 + 2 = 4
+Jogador obteve 2 + 1 = 3
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 10
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 3 + 5 = 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 5 + 6 = 11
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 4 + 5 = 9
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 4 = 6
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 4 + 1 = 5
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 2 = 3
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 2 + 6 = 8
+Jogador obteve 2 + 1 = 3
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 11
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 1 + 1 = 2
+Jogador obteve 3 + 3 = 6
+Jogador obteve 1 + 5 = 6
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 6 + 3 = 9
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 4 = 9
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 3 = 5
+Jogador obteve 5 + 4 = 9
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 3 = 6
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 6 + 3 = 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 1 + 3 = 4
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 6 = 11
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 2 + 3 = 5
+Jogador obteve 6 + 3 = 9
+Jogador obteve 3 + 2 = 5
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 1 + 4 = 5
+Jogador obteve 6 + 2 = 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 4 = 6
+Jogador obteve 3 + 5 = 8
+Jogador obteve 2 + 1 = 3
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 8
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 5 + 4 = 9
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 6 + 4 = 10
+Jogador obteve 3 + 2 = 5
+Jogador obteve 6 + 2 = 8
+Jogador obteve 4 + 5 = 9
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 5 = 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 2 + 4 = 6
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 2 = 6
+Jogador obteve 1 + 3 = 4
+Jogador venceu!
+Jogadas: 10
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 5 + 5 = 10
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 5 = 11
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 4 + 6 = 10
+Jogador obteve 6 + 4 = 10
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 3 + 3 = 6
+Jogador obteve 5 + 6 = 11
+Jogador obteve 3 + 2 = 5
+Jogador obteve 6 + 3 = 9
+Jogador obteve 2 + 2 = 4
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 5 + 4 = 9
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 4 + 6 = 10
+Jogador obteve 2 + 4 = 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 6 + 6 = 12
+Jogador obteve 1 + 5 = 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 3 = 5
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 5 = 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 8
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 2 + 4 = 6
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 2 = 6
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 3 = 5
+Jogador obteve 5 + 4 = 9
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 8
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 3 = 9
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 1 = 5
+Jogador obteve 3 + 5 = 8
+Jogador obteve 6 + 2 = 8
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 3 = 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 1 + 5 = 6
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 4 = 9
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 6 + 6 = 12
+Jogador obteve 5 + 5 = 10
+Jogador obteve 1 + 5 = 6
+Jogador obteve 6 + 3 = 9
+Jogador obteve 2 + 3 = 5
+Jogador obteve 4 + 5 = 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 11
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 1 + 1 = 2
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 6 = 10
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 6 = 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 5 + 1 = 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 2 = 4
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 3 = 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 5 + 3 = 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 6 = 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 1 + 1 = 2
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 11
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 1 = 2
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 2 = 5
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 1 + 2 = 3
+Jogador obteve 4 + 4 = 8
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 1 = 3
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 5 + 4 = 9
+Jogador obteve 6 + 6 = 12
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 6 = 9
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 8
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 3 = 6
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 6 + 5 = 11
+Jogador obteve 5 + 6 = 11
+Jogador obteve 1 + 4 = 5
+Jogador obteve 3 + 5 = 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 5 = 6
+Jogador venceu!
+Jogadas: 8
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 6 + 5 = 11
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 6 + 2 = 8
+Jogador obteve 1 + 2 = 3
+Jogador obteve 2 + 6 = 8
+Jogador obteve 1 + 4 = 5
+Jogador obteve 6 + 4 = 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 5 = 8
+Jogador obteve 4 + 6 = 10
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 5 + 3 = 8
+Jogador obteve 4 + 6 = 10
+Jogador obteve 4 + 1 = 5
+Jogador obteve 3 + 6 = 9
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 16
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 4 + 4 = 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 3 + 3 = 6
+Jogador obteve 4 + 4 = 8
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 1 = 2
+Jogador obteve 4 + 1 = 5
+Jogador obteve 3 + 5 = 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 12
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 3 + 5 = 8
+Jogador obteve 1 + 5 = 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 6 + 3 = 9
+Jogador obteve 4 + 2 = 6
+Jogador obteve 5 + 4 = 9
+Jogador obteve 6 + 3 = 9
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 3 = 9
+Jogador obteve 4 + 5 = 9
+Jogador obteve 1 + 1 = 2
+Jogador obteve 5 + 1 = 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 6 = 9
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 9
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 6 + 3 = 9
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 6 + 2 = 8
+Jogador obteve 4 + 2 = 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 5 + 1 = 6
+Jogador obteve 2 + 6 = 8
+Jogador obteve 4 + 4 = 8
+Jogador obteve 4 + 4 = 8
+Jogador obteve 3 + 5 = 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 10
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 3 + 3 = 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 3 + 1 = 4
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 5 + 3 = 8
+Jogador obteve 3 + 3 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 4 = 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 3 + 5 = 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 1 = 4
+Jogador venceu!
+Jogadas: 12
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 5 + 3 = 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 3 + 5 = 8
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 3 + 3 = 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 2 + 6 = 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 1 + 1 = 2
+Jogador obteve 2 + 6 = 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 3 + 1 = 4
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 6 = 9
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 12
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 5 = 6
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 5 + 5 = 10
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 6 + 2 = 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 3 + 5 = 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 5 + 3 = 8
+Jogador obteve 1 + 2 = 3
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 4 = 5
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 3 + 6 = 9
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 6 + 4 = 10
+Jogador obteve 5 + 1 = 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 2 + 3 = 5
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 4 + 4 = 8
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 3 = 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 3 + 3 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 3 + 3 = 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 3 = 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 4 = 10
+Jogador obteve 2 + 3 = 5
+Jogador obteve 5 + 1 = 6
+Jogador obteve 3 + 3 = 6
+Jogador obteve 4 + 5 = 9
+Jogador venceu!
+Jogadas: 11
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 3 + 2 = 5
+Jogador obteve 3 + 3 = 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 5 + 3 = 8
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 5 + 3 = 8
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 5 = 8
+Jogador obteve 2 + 2 = 4
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 1 + 2 = 3
+Jogador obteve 2 + 3 = 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 9
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 2 + 6 = 8
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 1 + 2 = 3
+Jogador obteve 2 + 2 = 4
+Jogador obteve 3 + 5 = 8
+Jogador obteve 1 + 1 = 2
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 4 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 6 = 11
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 11
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 5 = 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 2 = 4
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 8
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 5 + 6 = 11
+Jogador obteve 1 + 5 = 6
+Jogador obteve 4 + 2 = 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 4 + 6 = 10
+Jogador obteve 5 + 5 = 10
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 3 + 5 = 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 3 + 3 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 6 + 2 = 8
+Jogador obteve 5 + 4 = 9
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 2 + 3 = 5
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 1 + 2 = 3
+Jogador obteve 6 + 6 = 12
+Jogador obteve 1 + 5 = 6
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 3 + 1 = 4
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 4 = 9
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 3 + 1 = 4
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 1 + 1 = 2
+Jogador obteve 3 + 3 = 6
+Jogador obteve 4 + 4 = 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 6 = 8
+Jogador obteve 4 + 2 = 6
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 9
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 1 = 6
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 1 + 4 = 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 2 = 4
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 5 = 8
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 4 = 5
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 8
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 4 = 6
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 2 = 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 1 + 3 = 4
+Jogador obteve 1 + 3 = 4
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 8
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 1 + 3 = 4
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 3 + 6 = 9
+Jogador obteve 1 + 1 = 2
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 3 + 2 = 5
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 3 + 1 = 4
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 6 + 5 = 11
+Jogador obteve 5 + 3 = 8
+Jogador obteve 1 + 1 = 2
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 5 + 4 = 9
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 1 + 4 = 5
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 3 = 5
+Jogador obteve 4 + 6 = 10
+Jogador obteve 4 + 5 = 9
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 2 = 5
+Jogador obteve 3 + 1 = 4
+Jogador obteve 3 + 1 = 4
+Jogador obteve 4 + 1 = 5
+Jogador obteve 4 + 5 = 9
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 6 + 2 = 8
+Jogador obteve 6 + 2 = 8
+Jogador obteve 4 + 6 = 10
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 4 + 6 = 10
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 2 + 1 = 3
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 1 + 3 = 4
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 6 + 3 = 9
+Jogador obteve 6 + 3 = 9
+Jogador obteve 4 + 2 = 6
+Jogador obteve 5 + 4 = 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 6 + 4 = 10
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 8
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 3 + 3 = 6
+Jogador obteve 4 + 2 = 6
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 3 = 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 1 + 5 = 6
+Jogador obteve 2 + 3 = 5
+Jogador obteve 5 + 3 = 8
+Jogador obteve 5 + 5 = 10
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 3 + 3 = 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 1 + 3 = 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 6 + 3 = 9
+Jogador venceu!
+Jogadas: 7
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 3 + 1 = 4
+Jogador obteve 4 + 4 = 8
+Jogador obteve 1 + 1 = 2
+Jogador obteve 5 + 6 = 11
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 5 + 3 = 8
+Jogador obteve 3 + 6 = 9
+Jogador obteve 2 + 3 = 5
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 6 + 2 = 8
+Jogador obteve 2 + 1 = 3
+Jogador obteve 5 + 4 = 9
+Jogador obteve 4 + 5 = 9
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 4 + 6 = 10
+Jogador obteve 1 + 4 = 5
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 3 + 1 = 4
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 6 + 4 = 10
+Jogador obteve 1 + 4 = 5
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 3 = 5
+Jogador obteve 3 + 1 = 4
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 4 = 5
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 9
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 1 + 2 = 3
+Jogador obteve 5 + 1 = 6
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 1 = 6
+Jogador obteve 3 + 1 = 4
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 6 + 2 = 8
+Jogador obteve 2 + 4 = 6
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 6 = 12
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 3 + 5 = 8
+Jogador obteve 5 + 3 = 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 1 + 4 = 5
+Jogador obteve 4 + 4 = 8
+Jogador obteve 3 + 5 = 8
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 4 + 6 = 10
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 5 = 9
+Jogador obteve 6 + 3 = 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 1 + 5 = 6
+Jogador obteve 2 + 4 = 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 9
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 3 = 9
+Jogador obteve 1 + 1 = 2
+Jogador obteve 3 + 6 = 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 3 + 5 = 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 8
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 1 + 3 = 4
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 6 + 4 = 10
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 4 = 10
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 3 = 5
+Pontuacao: 5
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 1 + 3 = 4
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 1 + 6 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 2 = 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 5 + 6 = 11
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 5 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 5 + 6 = 11
+Jogador obteve 4 + 2 = 6
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 5 + 3 = 8
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 2 + 1 = 3
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 3 = 9
+Jogador obteve 3 + 6 = 9
+Jogador obteve 3 + 3 = 6
+Jogador obteve 3 + 2 = 5
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 2 + 2 = 4
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 4 = 10
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 4 + 6 = 10
+Jogador obteve 2 + 2 = 4
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 4 + 6 = 10
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 5 + 1 = 6
+Jogador obteve 4 + 1 = 5
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 3 = 8
+Jogador obteve 3 + 5 = 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 3 + 5 = 8
+Jogador obteve 3 + 2 = 5
+Jogador obteve 2 + 2 = 4
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 6 + 1 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 3 = 6
+Pontuacao: 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 4 + 2 = 6
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 3 + 6 = 9
+Jogador obteve 2 + 6 = 8
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 5 = 6
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 6 + 2 = 8
+Jogador obteve 2 + 6 = 8
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 3 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 3 = 9
+Jogador obteve 5 + 4 = 9
+Jogador obteve 5 + 6 = 11
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 1 = 5
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 4 + 2 = 6
+Pontuacao: 6
+Jogador obteve 2 + 2 = 4
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 2 + 4 = 6
+Jogador obteve 1 + 2 = 3
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 3 = 6
+Jogador obteve 1 + 4 = 5
+Jogador venceu!
+Jogadas: 6
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 2 + 2 = 4
+Jogador obteve 2 + 4 = 6
+Jogador obteve 3 + 2 = 5
+Jogador obteve 1 + 1 = 2
+Jogador obteve 2 + 4 = 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 4 + 2 = 6
+Jogador obteve 5 + 4 = 9
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 10
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 4 + 5 = 9
+Jogador obteve 2 + 6 = 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 1 + 3 = 4
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 6 = 10
+Jogador obteve 3 + 5 = 8
+Jogador obteve 5 + 5 = 10
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 1 = 6
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 10
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 1 + 4 = 5
+Jogador obteve 3 + 2 = 5
+Jogador obteve 4 + 2 = 6
+Jogador obteve 3 + 6 = 9
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 3 = 6
+Jogador obteve 5 + 5 = 10
+Jogador venceu!
+Jogadas: 8
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 1 + 3 = 4
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 5 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 2 + 2 = 4
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 1 + 6 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 5 + 1 = 6
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 3 = 5
+Jogador obteve 3 + 3 = 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 2 = 3
+Jogador obteve 4 + 1 = 5
+Jogador obteve 3 + 6 = 9
+Jogador venceu!
+Jogadas: 9
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 2 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 6 + 3 = 9
+Pontuacao: 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 2 + 3 = 5
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 1 = 6
+Pontuacao: 6
+Jogador obteve 3 + 3 = 6
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 5 + 5 = 10
+Pontuacao: 10
+Jogador obteve 6 + 5 = 11
+Jogador obteve 4 + 4 = 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 6 + 6 = 12
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 5 = 9
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 8
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 2 + 4 = 6
+Jogador obteve 2 + 3 = 5
+Jogador obteve 5 + 3 = 8
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 2 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 4 = 6
+Pontuacao: 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 2 = 4
+Jogador obteve 1 + 4 = 5
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 1 + 1 = 2
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 1 + 3 = 4
+Jogador obteve 2 + 2 = 4
+Jogador obteve 1 + 5 = 6
+Jogador obteve 1 + 4 = 5
+Jogador obteve 3 + 5 = 8
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 3 + 1 = 4
+Pontuacao: 4
+Jogador obteve 6 + 3 = 9
+Jogador obteve 6 + 3 = 9
+Jogador obteve 3 + 1 = 4
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 2 + 6 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 3 + 4 = 7
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 4 + 5 = 9
+Jogador obteve 1 + 1 = 2
+Jogador obteve 4 + 6 = 10
+Jogador obteve 6 + 1 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 6 + 4 = 10
+Pontuacao: 10
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 3 = 4
+Pontuacao: 4
+Jogador obteve 4 + 5 = 9
+Jogador obteve 4 + 1 = 5
+Jogador obteve 5 + 6 = 11
+Jogador obteve 4 + 2 = 6
+Jogador obteve 2 + 1 = 3
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 7
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 2 + 2 = 4
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 1 + 5 = 6
+Pontuacao: 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 4 + 4 = 8
+Pontuacao: 8
+Jogador obteve 6 + 6 = 12
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 3
+Jogador obteve 4 + 5 = 9
+Pontuacao: 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 3 + 3 = 6
+Jogador obteve 3 + 4 = 7
+Jogador perdeu...
+Jogadas: 4
+Jogador obteve 3 + 6 = 9
+Pontuacao: 9
+Jogador obteve 5 + 4 = 9
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 4 + 6 = 10
+Pontuacao: 10
+Jogador obteve 3 + 6 = 9
+Jogador obteve 6 + 5 = 11
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 5
+Jogador obteve 2 + 6 = 8
+Pontuacao: 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 3 + 2 = 5
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 2
+Jogador obteve 1 + 4 = 5
+Pontuacao: 5
+Jogador obteve 4 + 6 = 10
+Jogador obteve 5 + 3 = 8
+Jogador obteve 5 + 5 = 10
+Jogador obteve 6 + 6 = 12
+Jogador obteve 4 + 4 = 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 2 = 7
+Jogador perdeu...
+Jogadas: 9
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 4 + 1 = 5
+Jogador obteve 2 + 1 = 3
+Jogador obteve 6 + 3 = 9
+Jogador obteve 6 + 4 = 10
+Jogador obteve 4 + 2 = 6
+Jogador obteve 5 + 6 = 11
+Jogador obteve 5 + 3 = 8
+Jogador venceu!
+Jogadas: 8
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 1 = 3
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 2 + 2 = 4
+Pontuacao: 4
+Jogador obteve 3 + 6 = 9
+Jogador obteve 1 + 1 = 2
+Jogador obteve 6 + 6 = 12
+Jogador obteve 2 + 1 = 3
+Jogador obteve 5 + 4 = 9
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 4 = 5
+Jogador obteve 1 + 4 = 5
+Jogador obteve 6 + 6 = 12
+Jogador obteve 3 + 1 = 4
+Jogador venceu!
+Jogadas: 11
+Jogador obteve 4 + 1 = 5
+Pontuacao: 5
+Jogador obteve 5 + 3 = 8
+Jogador obteve 5 + 1 = 6
+Jogador obteve 4 + 1 = 5
+Jogador venceu!
+Jogadas: 4
+Jogador obteve 3 + 5 = 8
+Pontuacao: 8
+Jogador obteve 6 + 5 = 11
+Jogador obteve 4 + 2 = 6
+Jogador obteve 2 + 4 = 6
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 5
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 6 + 2 = 8
+Pontuacao: 8
+Jogador obteve 5 + 6 = 11
+Jogador obteve 1 + 1 = 2
+Jogador obteve 5 + 5 = 10
+Jogador obteve 1 + 5 = 6
+Jogador obteve 3 + 3 = 6
+Jogador obteve 1 + 1 = 2
+Jogador obteve 5 + 5 = 10
+Jogador obteve 5 + 4 = 9
+Jogador obteve 5 + 5 = 10
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 11
+Jogador obteve 5 + 3 = 8
+Pontuacao: 8
+Jogador obteve 4 + 4 = 8
+Jogador venceu!
+Jogadas: 2
+Jogador obteve 3 + 2 = 5
+Pontuacao: 5
+Jogador obteve 5 + 3 = 8
+Jogador obteve 2 + 5 = 7
+Jogador perdeu...
+Jogadas: 3
+Jogador obteve 6 + 6 = 12
+Jogador perdeu...
+Jogadas: 1
+Jogador obteve 5 + 6 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 4 = 9
+Pontuacao: 9
+Jogador obteve 6 + 6 = 12
+Jogador obteve 5 + 6 = 11
+Jogador obteve 3 + 5 = 8
+Jogador obteve 2 + 4 = 6
+Jogador obteve 4 + 3 = 7
+Jogador perdeu...
+Jogadas: 6
+Jogador obteve 6 + 5 = 11
+Jogador venceu!
+Jogadas: 1
+Jogador obteve 5 + 2 = 7
+Jogador venceu!
+Jogadas: 1
+Rolagem 1: 	Vitorias : 247	Derrotas : 114
+Rolagem 2: 	Vitorias : 82	Derrotas : 117
+Rolagem 3: 	Vitorias : 54	Derrotas : 75
+Rolagem 4: 	Vitorias : 32	Derrotas : 56
+Rolagem 5: 	Vitorias : 35	Derrotas : 36
+Rolagem 6: 	Vitorias : 23	Derrotas : 22
+Rolagem 7: 	Vitorias : 14	Derrotas : 25
+Rolagem 8: 	Vitorias : 8	Derrotas : 9
+Rolagem 9: 	Vitorias : 8	Derrotas : 6
+Rolagem 10: 	Vitorias : 3	Derrotas : 8
+Rolagem 11: 	Vitorias : 5	Derrotas : 6
+Rolagem 12: 	Vitorias : 2	Derrotas : 3
+Rolagem 13: 	Vitorias : 0	Derrotas : 1
+Rolagem 14: 	Vitorias : 1	Derrotas : 2
+Rolagem 15: 	Vitorias : 0	Derrotas : 0
+Rolagem 16: 	Vitorias : 0	Derrotas : 1
+Rolagem 17: 	Vitorias : 2	Derrotas : 0
+Rolagem 18: 	Vitorias : 0	Derrotas : 1
+Rolagem 19: 	Vitorias : 0	Derrotas : 1
+Rolagem 20: 	Vitorias : 0	Derrotas : 0
+Rolagem 21: 	Vitorias : 1	Derrotas : 0
+Depois da 20: 	Vitorias : 1	Derrotas : 0
